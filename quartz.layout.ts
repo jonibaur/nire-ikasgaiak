@@ -42,9 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({ title: "Menua ireki" }),
   ],
   right: [
-    //Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    //Barra lateral derecha vacia
   ],
 }
 
