@@ -654,3 +654,17 @@ iframe.pdf {
 #quartz-body {
   grid-template-columns: 1fr minmax(0, 900px) 0fr !important;
 }
+
+/* Oculta la columna derecha del grid y deja solo la central y la izquierda */
+#quartz-body {
+  /* Si quieres solo menú izquierdo y contenido, sin columna derecha: */
+  grid-template-columns: var(--sidePanelWidth, 260px) 1fr !important;
+}
+
+/* Asegura que la right sidebar no ocupe espacio */
+.sidebar.right {
+  display: none !important;
+  width: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
