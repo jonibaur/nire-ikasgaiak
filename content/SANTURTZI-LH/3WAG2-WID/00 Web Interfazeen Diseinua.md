@@ -6,14 +6,16 @@
 [[06. Web azterketa, egiaztapena eta argitalpena]]
 
 
+---
 
-## :LiNotebookPen: Ebaluazio eta kalifikazio irizpideak
+
+## Ebaluazio eta kalifikazio irizpideak
 
 [OCD](https://ivac-eei.eus//upload/cf/documentos/69/ifc_ts_des_apl_web_dcb_e.pdf)
 
 
 
-## :LiCalendarDays: Denboralizazioa
+## Denboralizazioa
 
 
 ### 25/26 ikasturtea

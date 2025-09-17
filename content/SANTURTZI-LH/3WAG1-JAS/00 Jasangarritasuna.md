@@ -6,13 +6,15 @@
 [[06. Jasangarritasun plana]]
 
 
-
-## :LiNotebookPen: Ebaluazio eta kalifikazio irizpideak
-
+---
 
 
+## Ebaluazio eta kalifikazio irizpideak
 
-## :LiCalendarDays: Denboralizazioa
+
+
+
+## Denboralizazioa
 
 
 ### 25/26 ikasturtea

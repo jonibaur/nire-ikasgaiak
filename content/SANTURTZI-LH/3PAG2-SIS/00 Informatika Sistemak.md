@@ -4,11 +4,13 @@
 [[04. Zerbitzuen integrazioa eta ekoizpen-inguruneak]]
 
 
-## :LiNotebookPen: Ebaluazio eta kalifikazio irizpideak
+---
+
+## Ebaluazio eta kalifikazio irizpideak
 
 
 
-## :LiCalendarDays: Denboralizazioa
+## Denboralizazioa
 
 
 ### 25/26 ikasturtea
