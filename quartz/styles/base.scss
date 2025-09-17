@@ -645,3 +645,12 @@ iframe.pdf {
   transition: width 0.2s ease;
   z-index: 9999;
 }
+
+/* Elimina la barra lateral derecha y su espacio en el grid en TODAS las páginas */
+.sidebar.right {
+  display: none !important;
+}
+
+#quartz-body {
+  grid-template-columns: 1fr minmax(0, 900px) 0fr !important;
+}
