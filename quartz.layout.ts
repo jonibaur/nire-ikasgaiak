@@ -39,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({ title: "Navegador" }),
+    Component.Explorer({ title: "Menua ireki" }),
   ],
   right: [
     Component.Graph(),
