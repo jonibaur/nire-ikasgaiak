@@ -1,8 +1,13 @@
 [[01. Web diseinurako jarraibideak]]
+
 [[02. HTML5 eta CSS3]]
+
 [[03. CSS Framework]]
+
 [[04. SASS]]
+
 [[05. Web interaktiboa]]
+
 [[06. Web azterketa, egiaztapena eta argitalpena]]
 
 
