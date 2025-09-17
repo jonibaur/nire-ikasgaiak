@@ -1,7 +1,7 @@
 ---
 title: Ongi etorri!
 ---
-> Kaixo, Jon Ibarra naiz. Santurtzi LHko informatika mintegiko irakaslea. 
+> Kaixo, ==Jon Ibarra== naiz. **Santurtzi LH**ko informatika mintegiko irakaslea. 
 
 Email helbidea: jibarra@fpsanturtzilh.eus 
 
