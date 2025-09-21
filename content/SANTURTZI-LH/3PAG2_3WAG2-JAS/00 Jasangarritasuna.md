@@ -1,10 +1,14 @@
-[[01. Sistemaren oinarriak eta azpiegiturak]]
+[[01. Jasangarritasuna eta haren erronkak]]
 
-[[02. Sistema eragilearen kudeaketa eta informazioaren antolaketa]]
+[[02. Jasangarritasunaren jomugak - GJHak]]
 
-[[03. Oinarrizko sare zerbitzuak]]
+[[03. Enpresa eta  ingurumena - IGG alderdiak]]
 
-[[04. Zerbitzuen integrazioa eta ekoizpen-inguruneak]]
+[[04. Diseinu eta ekoizpen jasangarriak]]
+
+[[05. Jasangarritasuna neurtzen]]
+
+[[06. Jasangarritasun plana]]
 
 
 ---
@@ -26,12 +30,11 @@
 
 📌 **Azken kalifikazioa** = **Gaitasun teknikoen (erronketako ebidentzien) eta zeharkako gaitasunen (auto/koebaluazioen) arteko ponderazioa**.
 
+
 ## Denboralizazioa
+
+#### 1. erronka
+#### 2. erronka
 
 
 ### 25/26 ikasturtea
-
-##### 1. erronka
-
-##### 2. erronka
-
